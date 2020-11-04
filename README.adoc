@@ -1,3 +1,5 @@
+**IMPORTANT**: This project was transitional (it was only needed during the code contribution to Eclipse Sirius). It will soon be archived and then removed completely. Please see https://github.com/eclipse-sirius/sirius-components instead.
+
 = sirius-components
 
 https://www.eclipse.org/sirius-web.html[Eclipse Sirius Web] is a framework to easily create and deploy studios to the web.
